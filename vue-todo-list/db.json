@@ -1,0 +1,24 @@
+{
+  "listItems": [
+    {
+      "title": "Make a todo list app",
+      "checked": true,
+      "id": "8d89"
+    },
+    {
+      "title": "Predict the weather",
+      "checked": true,
+      "id": "77b3"
+    },
+    {
+      "title": "Track my expenses",
+      "checked": false,
+      "id": "77b3"
+    },
+    {
+      "title": "Learn a new language",
+      "checked": true,
+      "id": "59b9"
+    }
+  ]
+}
