@@ -1,0 +1,36 @@
+{
+  "nivelesCarrera": [
+    {
+      "id": "4",
+      "nombre": "Doctorado"
+    },
+    {
+      "id": "52c5",
+      "nombre": "Maestria"
+    },
+    {
+      "id": "db9b",
+      "nombre": "Academico"
+    },
+    {
+      "id": "3509",
+      "nombre": "unodosPrueba"
+    },
+    {
+      "id": "83b2",
+      "nombre": "Posgrado"
+    },
+    {
+      "id": "8734",
+      "nombre": "Cientifico"
+    },
+    {
+      "id": "e55c",
+      "nombre": "Investigador"
+    },
+    {
+      "id": "16d3",
+      "nombre": "Desarrollo"
+    }
+  ]
+}

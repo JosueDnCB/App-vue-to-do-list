@@ -1,0 +1,30 @@
+//simulación de la base de fdatos
+{
+"nivelesCarrera": [
+	{"id":1,"nombre": "Maestria"},
+	{"id": 2,"nombre": "Doctorado"}
+]
+}
+
+// guardar
+
+// ejecutar json-server --watch db.json
+
+// obtrener la ruta donde se publica
+
+//http://localhost:3000/nivelesCarrera
+
+/*
+
+Se cambia en el código :
+
+    const fetchNiveles = async () => {
+      // Aquí iría la lógica para obtener los registros desde la API
+      // Por ejemplo:
+      // const response = await fetch('/api/niveles');
+      // niveles.value = await response.json();
+      const response = await fetch(`http://localhost:3000/nivelesCarrera`)
+      niveles.value = await response.json()
+      // niveles.value = [{ id: 1, nombre: 'Licenciatura' }]
+    }
+*/
